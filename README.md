@@ -1,5 +1,7 @@
 # fetch-backend-engineering-challenge
 
+My solution to the receipt-processor-challenge for the backend engineer apprenticeship uses go and docker. 
+
 To run my version of the solution to this challenge, follow these steps:
 
 First, ```go mod init gfg``` to create the module for this project
@@ -24,7 +26,11 @@ instead of 25 because 2.45 doesn't round up to 3 with math.Round()
 
 - Also as outlined in the challenge description, data for these receipts does not need to persist, so if you use an old id, this program won't work
 
-I appreciate you all taking the time to evaluate my solution, if I messed something up you can reach out to me at samcrowley35@gmail.com
+- Additionally, I didn't use the api file, but this program should meet all of the requirements of the challenge 
+
+I appreciate you all taking the time to evaluate my solution, if I messed something up you can reach out to me at samcrowley35@gmail.com.
+
+Thanks again for taking the time to review my work and I hope to hear from you all soon.
 
 
 
